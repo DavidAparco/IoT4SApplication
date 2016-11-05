@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_f00433b735d7b24ed0ff24e14df4bfb384f92398\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_7a15c89335d6d593d072d833343b658f8ff76e5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_85b22819e7cdab820af603c1397a607c4402147d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_98c2c9fb58297cd737a9812d58f84fd11e0c75f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.1_f037e17a6e805287dcd7e004b2e9fa55c0800d3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_5ab05617ef7ad1d848def7ab37a2bd0a926cee39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SMiLE\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_b6c6251771fcd438f5f9e88ae0a5eb17fbd783ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_f4e5241fb5ea2f16ba72273aa7939de50f6d0e43\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.6.1_4a70110d9f36a5b0aadd001aa52012b3b894c10d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_83ee1159e7437b6e33da50e42e142538aa2610ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_514f62eb4d1c10f09072d3691fcee14680725455\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_70d33b78d18ddf690ae61b5f6299d47ac31ea3c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="77292a8760eac3f4ca8b57b46a717908cb7c64af">
+        <dex dex="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7cd4c1504c0e5a01de1610a07bbb13a459b268ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_fce07ca5436a4a624a4be992344d00f729f3121a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.6.1_4427631d63daabc7922e9a25f5285951ce23f952\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="067c7609a25c1cb16970e5665cef4c26c0c04400">
+        <dex dex="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4ad3273e5ba406a8098d7b1794114dcd42b214d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.6.1_15d51ac814290f61ee336be144deb4341c049c0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_59bcf9cd8af026e83aa32c8be5622ab5df45e76a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e41c5bd18d6ed149e3ed96c721b1143ad0c622ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SMiLE\.gradle\caches\modules-2\files-2.1\org.eclipse.paho\org.eclipse.paho.client.mqttv3\1.0.3-SNAPSHOT\364bbb31f264b2de958c5a0437de478af18ae7\org.eclipse.paho.client.mqttv3-1.0.3-SNAPSHOT.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="00364bbb31f264b2de958c5a0437de478af18ae7">
+        <dex dex="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.eclipse.paho.client.mqttv3-1.0.3-SNAPSHOT_176100f0ecdb6e3c0231447ef269022089d4b913\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_a8311bfc6607a7143f76b1c9427260ce637f8866\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_9808f16dc6ad40f71995d05c3bc0ea380689fb3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SMiLE\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v3.0.0-beta1\54d65d51b5ebec588a19b2384efb6395b5bf5b18\MPAndroidChart-v3.0.0-beta1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="54d65d51b5ebec588a19b2384efb6395b5bf5b18">
+        <dex dex="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\transforms\dex\debug\folders\1000\10\MPAndroidChart-v3.0.0-beta1_60925924ce88dab8ba9a240577378645217c8678\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\exploded-aar\com.google.maps.android\android-maps-utils\0.4.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6f57b76211a1d7b0c1f18873af59faad95664681">
+        <dex dex="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.maps.android-android-maps-utils-0.4.4_17026b6fe3f2b28daa17bd73ce4e901eec4f2db5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-2.1.0_18ef3bfe6f4e2719bcb50db2e394857ad57c9834\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_268a3bef511d374c281935b34cb9baf5069921c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_6d00e76e2aac4d0b32e49ff65e0d017ce5114e96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SMiLE\.gradle\caches\modules-2\files-2.1\org.eclipse.paho\org.eclipse.paho.android.service\1.0.3-SNAPSHOT\306f4b0f9020bd1f5e77e84dc1ee44ca5864194a\org.eclipse.paho.android.service-1.0.3-SNAPSHOT.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="306f4b0f9020bd1f5e77e84dc1ee44ca5864194a">
+        <dex dex="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.eclipse.paho.android.service-1.0.3-SNAPSHOT_2cd6284429796a294e07992b765dbbf383cf57cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_f14f322f732bc322714dc31d16444ef755b2b754\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
+        <dex dex="C:\Users\SMiLE\StudioProjects\IoT4SApplicationX\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.6.1_b13aefe0ac9b27dc1811580a0be6d5411c6dc33d\classes.dex" />
+    </item>
+
+</items>

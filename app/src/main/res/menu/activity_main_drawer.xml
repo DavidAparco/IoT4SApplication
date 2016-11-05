@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_dashboard"
+            android:icon="@drawable/ic_assessment_black_24dp"
+            android:title="DashBoard" />
+        <item
+            android:id="@+id/nav_mapa"
+            android:icon="@drawable/ic_menu_mapa"
+            android:title="Mapa" />
+        <item
+            android:id="@+id/nav_mapacalor"
+            android:icon="@drawable/ic_menu_mapacalor"
+            android:title="Mapa de Calor" />
+        <item
+            android:id="@+id/nav_ocio"
+            android:icon="@drawable/ic_menu_ocio"
+            android:title="Ocio" />
+        <item
+            android:id="@+id/nav_graficas"
+            android:icon="@drawable/ic_menu_graficas"
+            android:title="Graficas" />
+    </group>
+
+    <item android:title="Comunicacion">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Alerta" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Sugerencias" />
+        </menu>
+    </item>
+
+</menu>
